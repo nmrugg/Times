@@ -46,11 +46,11 @@ button:hover {
  * Emulate button pressing.
  */
 button:active {
-    padding: 10px 0 10px 2px;
+    
     background-color: rgba(0,0,200,.12);
 }
 
 .showing_answer {
     background-color: rgba(0,0,200,.12)!important;
-    font-weight: bold;
+    text-shadow: 1px 0px 0px rgba(57, 133, 167, 0.5), -1px 0px 0px rgba(57, 133, 167, 0.5), 0px 1px 0px rgba(57, 133, 167, 0.5), 0px -1px 0px rgba(57, 133, 167, 0.5);
 }
