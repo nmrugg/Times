@@ -46,5 +46,5 @@ document.addEventListener("DOMContentLoaded", function ()
         }
     }
     
-    make_table(12, 12);
+    make_table(15, 15);
 });
